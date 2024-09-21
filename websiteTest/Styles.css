@@ -1,0 +1,19 @@
+﻿body {
+    background-color: aquamarine;
+
+}
+
+#myBox {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+
+#myButton{
+    margin-top: 150px;
+   font-size: 3rem;
+}
