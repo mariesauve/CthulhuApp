@@ -1,5 +1,5 @@
 ﻿body {
-    background-color: aquamarine;
+    background-color: rgb(217, 221, 220);
 
 }
 
@@ -21,3 +21,16 @@ img {
 #btn {
     nav-right:current;
 }
+.art-item {
+    display: none; /* Hidden by default */
+    transition: all 0.3s ease-in-out;
+  }
+  .custom-border {
+    border: 2px solid #ddd; /* Light gray border */
+    box-shadow: 12px 12px 15px rgb(56, 157, 157);
+    border-radius: 5px; /* Rounded corners */
+    margin-right: 2px;
+     width: 150px;
+      height: 150px;
+}
+
